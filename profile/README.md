@@ -1,4 +1,4 @@
-![celive](https://github.com/celivecorp/.github/raw/main/profile/logo.png)
+![celive](logo.png)
 
 # celive
 
