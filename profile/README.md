@@ -1,14 +1,10 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/celivecorp/.github/main/profile/logo.png" width="88" alt="celive">
+![celive](https://github.com/celivecorp/.github/raw/main/profile/logo.png)
 
 # celive
 
 **콘텐츠가 파는 시대, 제조부터 판매까지 직접 합니다.**
 
 셀리브 코퍼레이션이 만드는 웹 서비스가 여기 모입니다.
-
-</div>
 
 ---
 
@@ -67,6 +63,4 @@ API 키·토큰·인증서는 배포 환경의 환경변수에만 둡니다. `.e
 
 ---
 
-<div align="center">
-<sub>문의 — <a href="https://celivecorp.com/#contact">celivecorp.com</a></sub>
-</div>
+문의 — [celivecorp.com](https://celivecorp.com/#contact)
